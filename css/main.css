@@ -1,0 +1,120 @@
+.container{
+width: 1300px;
+height: 590px;
+border: transparent;
+border-radius: 20px;
+transform: translate(2%,0px);
+/* background-color: ; */
+/* position: relative;
+left: 20px; */
+}
+body{
+width: 1300px;
+height: 590px;
+
+
+}
+.A1{
+width: 650px;
+height: 590px;
+border: transparent;
+border-bottom-left-radius: 20px;
+border-top-left-radius: 20px;
+background-color: blue;
+
+/* position: fixed; */
+}
+.A2{
+width: 650px;
+height: 590px;
+border: transparent;
+transform: translate(100%,-103.5%);
+border-bottom-right-radius: 20px;
+border-top-right-radius: 20px;
+/* background-color:red; */
+}
+.A3{
+width: 500px;
+height: 500px;
+border: transparent;
+transform: translate(60px,50px);
+/* background-color:; */
+}
+.A4{
+font-weight: bolder;
+}
+.A5{
+color: gray;
+margin-top: -15px;
+
+}
+.A7{
+width: 250px;
+border-radius: 5px;
+}
+.A10{
+color: antiquewhite;
+
+
+}
+.A11{
+width: 150px;
+height: 40px;
+border-radius: 20px;
+border:transparent;
+transform: translate(0px,40px);
+transition: all 1s;
+box-shadow: 5px 9px 10px;
+display: flex;
+justify-content: center;
+align-items: center;
+background-color: rgb(29, 23, 54);
+}
+.A12{
+width: 250px;
+height: 50px;
+border: transparent;
+display:flex;
+justify-content: center;
+align-items: center;
+justify-content: space-around;
+transform: translate(0px, 60px);
+
+}
+.A13{
+width: 300px;
+height: 40px;
+border: 1px solid black;
+display: flex;
+justify-content: center;
+align-items: center;
+justify-content: space-between;
+}
+.A14{
+margin-top: 0px;
+}
+.A15{
+width: 250px;
+height: 300px;
+border: 1px solid black;
+border-radius: 10px;
+/* transform: rotate(-4deg); */
+/* position: relative;`
+left: 10px; */
+margin-top: 80px;
+/* transform: translate(120px, 150px); */
+/* margin-left: 90px; */
+transition: all 3s;
+}
+.A15:hover{
+/* transform: translate(100px,100px); */
+/* position: fixed; */
+transform: rotate(10deg);
+
+}
+.A16{
+gap: 30px ;
+display: flex;
+
+
+}
